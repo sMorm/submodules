@@ -6,3 +6,6 @@ So this repository's submodule will always point to master, unless someone chang
 the branch it points to in `.gitmodules`
 
 Update 2: Changed the branch tracking in `.gitmodules` from `master` to `submodule_test`
+
+Update 3: Manually adding branch tracking doesn't work, have to use `git submodule add -b <BRANCH_NAME> <REPO_URL>`
+Deinitializing submodule...
