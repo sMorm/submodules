@@ -9,3 +9,5 @@ Update 2: Changed the branch tracking in `.gitmodules` from `master` to `submodu
 
 Update 3: Manually adding branch tracking doesn't work, have to use `git submodule add -b <BRANCH_NAME> <REPO_URL>`
 Deinitializing submodule...
+
+Update 4: Reinitializing Submodule with Branch Tracking
