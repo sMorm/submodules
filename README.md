@@ -13,3 +13,6 @@ Deinitializing submodule...
 Update 4: Reinitializing Submodule with Branch Tracking
 
 Update 5: Switched branch inside submodule to `master`
+	Github continues to track `submodule_test` branch
+
+Update 6: Switched branch inside `.gitmodules` to 'master'
