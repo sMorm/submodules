@@ -11,3 +11,5 @@ Update 3: Manually adding branch tracking doesn't work, have to use `git submodu
 Deinitializing submodule...
 
 Update 4: Reinitializing Submodule with Branch Tracking
+
+Update 5: Switched branch inside submodule to `master`
