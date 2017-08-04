@@ -16,3 +16,5 @@ Update 5: Switched branch inside submodule to `master`
 	Github continues to track `submodule_test` branch
 
 Update 6: Switched branch inside `.gitmodules` to 'master'
+
+Final Update: Using submodules without branch tracking is more flexible, when a user is working on a different branch, when pushed, the submodule will be pushed to the new branch. When a new user clones the repository, the submodule will be empty. They will be required to run `git submodule init` followed by `git submodule update` to update to the specific branch of the submodule.
